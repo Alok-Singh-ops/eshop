@@ -4,7 +4,8 @@
     "outDir": "out-tsc/auth-service-e2e",
     "esModuleInterop": true,
     "noUnusedLocals": false,
-    "noImplicitAny": false
+    "noImplicitAny": false,
+    "resolveJsonModule": true
   },
   "include": [
     "jest.config.ts",
